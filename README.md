@@ -63,6 +63,5 @@ Feel free to fork, but please credit original idea initiator.
 ---
 
 ## ✍️ Author
-Initiated by: [Your Name or alias]  
-Contact: [Optional]  
-Twitter / GitHub / Email
+Initiated by: Obsyndr    
+https://x.com/WissnuW_
