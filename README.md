@@ -2,7 +2,7 @@
 
 
 ### ⏳ Status
-Early-stage conceptual idea — initial draft by [YourName]  
+Early-stage conceptual idea — initial draft by [Wisnu Wardhana]  
 📅 First documented: June 5th, 2025
 
 ---
