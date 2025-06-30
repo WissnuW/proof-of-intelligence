@@ -56,12 +56,6 @@ Sistem validasi saat ini terlalu bergantung pada:
 
 ---
 
-## 📜 License
-Creative Commons Attribution 4.0  
-Feel free to fork, but please credit original idea initiator.
-
----
-
 ## ✍️ Author
 Initiated by: Obsyndr    
 https://x.com/WissnuW_
